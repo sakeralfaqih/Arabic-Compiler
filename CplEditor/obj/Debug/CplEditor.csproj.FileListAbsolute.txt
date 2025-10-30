@@ -1,0 +1,15 @@
+D:\c#\CplProject\CplEditor\bin\Debug\CplEditor.exe.config
+D:\c#\CplProject\CplEditor\bin\Debug\CplEditor.exe
+D:\c#\CplProject\CplEditor\bin\Debug\CplEditor.pdb
+D:\c#\CplProject\CplEditor\bin\Debug\Newtonsoft.Json.dll
+D:\c#\CplProject\CplEditor\bin\Debug\ScintillaNET.dll
+D:\c#\CplProject\CplEditor\bin\Debug\Newtonsoft.Json.xml
+D:\c#\CplProject\CplEditor\bin\Debug\ScintillaNET.xml
+D:\c#\CplProject\CplEditor\obj\Debug\CplEditor.csproj.SuggestedBindingRedirects.cache
+D:\c#\CplProject\CplEditor\obj\Debug\CplEditor.Form1.resources
+D:\c#\CplProject\CplEditor\obj\Debug\CplEditor.Properties.Resources.resources
+D:\c#\CplProject\CplEditor\obj\Debug\CplEditor.csproj.GenerateResource.cache
+D:\c#\CplProject\CplEditor\obj\Debug\CplEditor.csproj.CoreCompileInputs.cache
+D:\c#\CplProject\CplEditor\obj\Debug\CplEditor.csproj.CopyComplete
+D:\c#\CplProject\CplEditor\obj\Debug\CplEditor.exe
+D:\c#\CplProject\CplEditor\obj\Debug\CplEditor.pdb
